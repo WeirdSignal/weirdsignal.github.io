@@ -2,7 +2,7 @@ title: Mon Blog
 description: Un blog personnel hébergé sur GitHub Pages
 baseurl: ""
 url: "https://weirdsignal.github.io"
-theme: jekyll-theme-midnight
+theme: "jekyll-theme-midnight"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
