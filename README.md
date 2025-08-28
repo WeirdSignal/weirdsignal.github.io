@@ -1,19 +1,13 @@
-This project is about to test jekyll with github page   
-Edit from WS   
+---
+layout: default
+title: Mon Blog
+---
 
-_______________________________________________________________________________
-## Hardware
-Let schema here   
-_______________________________________________________________________________
-## Firmware / Software
+# Bienvenue sur mon blog
 
-let link to firmware   
-___________
-## Category 1
+Voici mes derniers articles :
 
-Go to [Category1](category1.md)
+{% for post in site.posts limit:5 %}
+- [{{ post.title }}]({{ post.url | relative_url }}) ({{ post.date | date_to_string }})
+{% endfor %}
 
-____________________________________________________________________
-## Contact
-
-- Twitter: [@14frs851](https://twitter.com/14frs851)   
