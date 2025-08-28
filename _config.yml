@@ -1,1 +1,8 @@
-theme: jekyll-theme-midnight
+title: Mon Blog
+description: Un blog personnel hébergé sur GitHub Pages
+baseurl: ""
+url: "https://weirdsignal.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
