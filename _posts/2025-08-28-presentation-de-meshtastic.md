@@ -2,7 +2,7 @@
 layout: post
 title: "Présentation de Meshtastic"
 date: 2025-08-28
-categories: [meshtastic, radio, projets]
+tags: [meshtastic, radio, projets]
 ---
 
 # Présentation de Meshtastic
