@@ -4,6 +4,7 @@
 
 ### WIP (3 tasks max)
 
+- Article sur les cas d'usage concret de meshtastic 
 - Ecrire un article sur une présentation de Gaulix
 - Pourquoi les traits sont verts / Comment appariatre sur une carte 
 - Swot Gaulix
