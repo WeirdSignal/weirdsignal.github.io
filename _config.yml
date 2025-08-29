@@ -1,15 +1,11 @@
 title: Mon Blog
-
 description: Un blog personnel hébergé sur GitHub Pages
-# Si le baseurl ou l'url dans _config.yml est mal configuré, les fichiers CSS, JavaScript ou autres ressources du thème peuvent ne pas se charger correctement, donnant l'impression que le thème est absent.
+
 baseurl: ""
 url: "https://weirdsignal.github.io"
+remote_theme: pages-themes/minimal
 
-# Pour un thème hébergé sur GitHub :night/
-# remote_theme: pages-themes/minimal
-remote_theme: pages-themes/midnight
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-#  - jekyll-remote-theme
