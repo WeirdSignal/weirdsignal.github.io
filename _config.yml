@@ -3,7 +3,7 @@ description: Un blog personnel hébergé sur GitHub Pages
 baseurl: ""
 url: "https://weirdsignal.github.io"
 # remote_theme: pages-themes/minimal
-theme: minima
+theme: time-machine
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
