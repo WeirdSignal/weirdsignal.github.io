@@ -1,0 +1,100 @@
+---
+
+layout: post
+title: "Meshtastic en vacances : rester connecté quand le réseau mobile tombe"
+date: 2025-08-29
+permalink: /meshtastic-vacances-marche/
+---------------------------------------
+
+# Meshtastic en vacances : rester connecté quand le réseau mobile tombe
+
+Imagine : vous êtes en vacances dans un petit village où vivent normalement 1 000 personnes. Les jours de marché, la population triple — et avec elle la charge sur le réseau mobile. Résultat : SMS qui n’arrivent pas, appels qui échouent, et même les TPE des commerçants qui se retrouvent hors ligne.
+
+Heureusement, vous avez prévu le coup : chacun possède un petit **node Meshtastic** basé sur un T1000. Ces appareils créent un **réseau maillé radio** indépendant des opérateurs. Voici un guide clair et pratique (niveau vulgarisation) pour expliquer ce que vous gagnez et comment l’utiliser.
+
+---
+
+## Qu’est‑ce que Meshtastic, en deux phrases ?
+
+Meshtastic est un projet open‑source qui permet de créer des réseaux maillés à basse consommation en utilisant des modules radio (LoRa). Chaque node se comporte comme un relais : les messages sautent de device en device jusqu’à atteindre leur destinataire, sans infrastructure centralisée.
+
+---
+
+## Le scénario : le marché saturé
+
+* Situation normale : village = 1 000 habitants.
+* Jours de marché : population ≈ 3 000 — le réseau mobile est saturé.
+* Conséquence : SMS et paiements qui échouent, anxiété, familles séparées.
+
+Avec Meshtastic : vous et votre moitié avez chacun un T1000 dans la poche. Même sans 4G, vous pouvez :
+
+* **Vous envoyer des messages textes simples** (quelques dizaines d’octets suffisent),
+* **Partager vos positions GPS** pour vous retrouver dans la foule,
+* **Former un réseau résilient** : si un node est hors tension, les autres relaient le message.
+
+---
+
+## Matériel nécessaire (exemple simple)
+
+* 2 × node Meshtastic basés sur T1000 (ou tout autre module compatible LoRa),
+* Une batterie mobile ou pile rechargeable (selon le modèle),
+* (Optionnel) Un smartphone avec l’app Meshtastic si vous voulez une interface plus pratique.
+
+> Le T1000 est compact et économe en énergie : idéal pour la rando ou la poche.
+
+---
+
+## Mise en place rapide (5 étapes)
+
+1. **Flasher / vérifier le firmware Meshtastic** sur chaque T1000 (instructions du projet Meshtastic).
+2. **Allumer les nodes** et vérifier qu’ils apparaissent en peering (LED ou via l’app).
+3. **Activer le GPS** sur au moins un appareil si vous voulez échanger des positions.
+4. **Tester les messages** à faible distance avant de quitter la maison : envoi/réception + position.
+5. **Emporter une batterie de secours** pour la journée du marché.
+
+---
+
+## Exemple d’usage concret au marché
+
+* Vous parcourez les étals pendant que votre famille reste près d’un café.
+* Vous perdez la couverture mobile — les SMS n’arrivent plus.
+* Vous ouvrez l’app Meshtastic (ou utilisez l’interface native du node) et envoyez “Où es‑tu ?”
+* Votre contact reçoit le message via le maillage radio et peut envoyer sa position GPS.
+* Vous vous retrouvez en quelques minutes, sans opérateur.
+
+---
+
+## Avantages
+
+* **Indépendance** : pas besoin d’antenne mobile ni d’abonnement.
+* **Simplicité** : messages texte + position, interface épurée.
+* **Robustesse** : le réseau s’étend quand d’autres nodes sont présents.
+* **Confidentialité** : messages locaux, vous ne passez pas par des services tiers (selon configuration).
+
+---
+
+## Limitations à connaître
+
+* **Débit faible** : Meshtastic n’est pas fait pour envoyer des photos ou de gros messages.
+* **Portée variable** : dépend du terrain, des obstacles et de l’antenne.
+* **Pas de routage Internet natif** : si vous avez besoin d’un accès Web, il faut un bridge connecté.
+* **Réglementation radio** : respectez les bandes et puissances autorisées localement.
+
+---
+
+## Conseils pratiques pour les vacances
+
+* Testez et chargez tout avant le départ.
+* Emportez au moins une batterie externe par node.
+* Si possible, placez un node en hauteur (fenêtre, sac à dos) pour augmenter la portée.
+* Expliquez brièvement à vos proches comment lire la position et envoyer un message.
+
+---
+
+## Conclusion
+
+Dans un village sur‑chargé par un marché, Meshtastic transforme une situation frustrante (réseau mobile saturé) en expérience sereine : communication simple, retrouvaille rapide, et indépendance vis‑à‑vis des opérateurs. Pour des vacances en famille, c’est un petit investissement matériel qui peut sauver des journées.
+
+---
+
+*Tu veux que je prépare aussi une version courte pour Twitter, ou une fiche « à imprimer » avec la checklist matériel / charge ?*
