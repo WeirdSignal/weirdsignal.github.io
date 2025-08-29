@@ -6,4 +6,3 @@ remote_theme: pages-themes/minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
