@@ -11,7 +11,10 @@
 
 ### BackLog
 
-- Gaulix amélioration
+- Cas concret la coupure SFR plus de reseau mobile
+- Cas concret mes enfants se servent d'un clavier
+- cas concret 
+- Gaulix amélioration (liste smartphone)
 - https://www.google.com/search?client=firefox-b-d&q=armachat+tracksenger
 
 
@@ -20,12 +23,9 @@
 
 ### WIP
 
-- Un jolie theme
-
-
+- Un joli theme
 
 ### TODO
 
-- Un jolie theme
 - Trier par tag
 - 
