@@ -6,8 +6,11 @@ baseurl: ""
 url: "https://weirdsignal.github.io"
 
 # Pour un thème hébergé sur GitHub :
-remote_theme: pages-themes/minimal
+# remote_theme: pages-themes/minimal
+remote_theme: pages-themes/midnight
 
+https://pages-themes.github.io/midnight/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
