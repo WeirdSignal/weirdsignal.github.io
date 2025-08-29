@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Meshtastic en vacances"
+title: Meshtastic en Vacances
 date: 2025-08-29
+layout: post
 tags: [meshtastic, radio, projets]
 ---------------------------------------
 
