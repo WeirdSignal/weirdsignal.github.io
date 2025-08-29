@@ -2,7 +2,7 @@
 layout: post
 title: "Meshtastic en vacances : rester connecté quand le réseau mobile tombe"
 date: 2025-08-29
-categories: [meshtastic, radio, projets]
+tags: [meshtastic, radio, projets]
 ---------------------------------------
 
 # Meshtastic en vacances : rester connecté quand le réseau mobile tombe
