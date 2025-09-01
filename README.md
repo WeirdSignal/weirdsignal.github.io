@@ -16,7 +16,17 @@
 - cas concret 
 - Gaulix amélioration (liste smartphone)
 - https://www.google.com/search?client=firefox-b-d&q=armachat+tracksenger
+- Gaulix apparaitre sur la carte :
+-   Il faut que les 2 nœuds informent le site qu'ils sont voisins :
+- via des trames neighborinfo envoyé des 2 côté
+- via des traceroutes
+- en relayant la trame de l'autre sur mqtt avec un hop à 0
+- avec le "relay node" présent dans les trames
 
+Les 2 nœuds doivent avoir une position gps et s'entendre une fois par jour au moins.
+
+Sur le site Gaulix c'est pareil sauf que c'est restreint au mqtt Gaulix donc tu as moins de chance d'avoir de traits verts si tu n'es pas sur leur mqtt.
+En Isère (et globalement en France) c'est la carte pixel qu'il faut regarder car elle regroupe la plupart des mqtt français
 
 
 ## Jekyll tips
