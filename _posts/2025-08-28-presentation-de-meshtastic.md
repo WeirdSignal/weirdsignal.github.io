@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Présentation de Meshtastic"
 date: 2025-08-28
 tags: [meshtastic, radio, projets]
