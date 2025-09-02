@@ -1,7 +1,7 @@
 ---
+layout: default
 title: Meshtastic Architecture
 date: 2025-09-01
-layout: post
 tags: [meshtastic, radio, projets]
 ---
 
