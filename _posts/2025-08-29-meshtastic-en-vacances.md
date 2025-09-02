@@ -1,7 +1,7 @@
 ---
 title: Meshtastic en Vacances
 date: 2025-08-29
-layout: post
+layout: default
 tags: [meshtastic, radio, projets]
 ---
 
