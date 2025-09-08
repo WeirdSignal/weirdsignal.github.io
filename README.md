@@ -35,14 +35,16 @@
 - avec le "relay node" présent dans les trames
 - Spécifier les nodes fixes et 
 - 
-- Pixel
--   
-Les 2 nœuds doivent avoir une position gps et s'entendre une fois par jour au moins.
+- Pixel  
+  Les 2 nœuds doivent avoir une position gps et s'entendre une fois par jour au moins.
+  
+  Sur le site Gaulix c'est pareil sauf que c'est restreint au mqtt Gaulix donc tu as moins de chance d'avoir de traits verts si tu n'es pas sur leur mqtt.
+  En Isère (et globalement en France) c'est la carte pixel qu'il faut regarder car elle regroupe la plupart des mqtt français
 
-Sur le site Gaulix c'est pareil sauf que c'est restreint au mqtt Gaulix donc tu as moins de chance d'avoir de traits verts si tu n'es pas sur leur mqtt.
-En Isère (et globalement en France) c'est la carte pixel qu'il faut regarder car elle regroupe la plupart des mqtt français
+Pourquoi LongModerate vs LongFast vs Medium Fast
 
-Liens vers :
+
+Une page de liens vers :
   - Gaulix
   - Mestastic
   - https://wiki.mesh-idf.fr/fr/configuration
