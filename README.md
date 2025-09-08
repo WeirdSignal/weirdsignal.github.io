@@ -7,11 +7,11 @@
 
 ### BackLog
 
-- Article sur les cas d'usage concret de meshtastic 
 - Ecrire un article sur une présentation de Gaulix
 - Pourquoi les traits sont verts / Comment appariatre sur une carte 
 - Swot Gaulix
-  - Trop de canaux, a diminuer, virer admin, ajouter des canaux locaux 
+  - Trop de canaux, a diminuer, virer admin, ajouter des canaux locaux
+  - Communauté Francaise, diffile de passer dans les payx limitrophes 
 - Pixel Server amélioration 
   - Améliorer les affichagesur la carte avec des icones a parit du usermask, ovir les 2 dernières heures de deplacement d'un node
 -   Icone a partir du user mask pour les noeuds / fixe mobile etc (ou a partir du nom long)
@@ -19,36 +19,28 @@
  
 - Animer votre réseau meshtastic :
   -   Ce qu iexiste le test emcomm le premier mercredi du mois
-  -   
+  -   Ajouter des infos sur la carte
 
-- Technique : gérer les tags jekkyyl : mestastic / gaulix / procedure / oducmentaiton / technique 
 - Cas concret la coupure SFR plus de reseau mobile
 - Cas concret mes enfants se servent d'un clavier
 - 
 - Gaulix amélioration (liste smartphone)
-- https://www.google.com/search?client=firefox-b-d&q=armachat+tracksenger
-- Gaulix apparaitre sur la carte :
+-   Des icones symps, le temps
+-   Un statut des stations
+-   Animer le reseau 
+- HArdware
+  - https://www.google.com/search?client=firefox-b-d&q=armachat+tracksenger
+-
+-  Gaulix apparaitre sur la carte pixel :
 -   Il faut que les 2 nœuds informent le site qu'ils sont voisins :
 - via des trames neighborinfo envoyé des 2 côté
 - via des traceroutes
 - en relayant la trame de l'autre sur mqtt avec un hop à 0
 - avec le "relay node" présent dans les trames
-- Spécifier les nodes fixes et 
-- 
-- Pixel  
-  Les 2 nœuds doivent avoir une position gps et s'entendre une fois par jour au moins.
+- Les 2 nœuds doivent avoir une position gps et s'entendre une fois par jour au moins.
   
   Sur le site Gaulix c'est pareil sauf que c'est restreint au mqtt Gaulix donc tu as moins de chance d'avoir de traits verts si tu n'es pas sur leur mqtt.
   En Isère (et globalement en France) c'est la carte pixel qu'il faut regarder car elle regroupe la plupart des mqtt français
-
-Pourquoi LongModerate vs LongFast vs Medium Fast
-
-
-Une page de liens vers :
-  - Gaulix
-  - Mestastic
-  - https://wiki.mesh-idf.fr/fr/configuration
-  - https://www.meshtagironde.fr/
 
 ## Jekyll tips
 
@@ -58,5 +50,5 @@ Une page de liens vers :
 
 ### TODO
 
-- Trier par tag
+- Trier par tagjekyll : meshtastic / gaulix / procedure / oducmentaiton / technique 
 - 
