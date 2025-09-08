@@ -18,7 +18,7 @@ Les réglages par défaut dans Meshtastic jouent un rôle pivotal car ils défin
 
 En résumé, les defaults agissent comme un "standard implicite" qui facilite l'adoption massive. Mais ces standards doivent évoluer avec la maturité du réseau.
 
-## Au Début : Un Réseau Sparse avec Peu de Nœuds
+## Au Début : Un Réseau éparse avec Peu de Nœuds
 
 Aux débuts d'un réseau Meshtastic, les nœuds sont généralement peu nombreux et souvent éloignés les uns des autres. Dans ce contexte, la priorité est la portée maximale pour établir des connexions stables.
 
@@ -47,3 +47,10 @@ Selon la documentation officielle de Meshtastic et des discussions communautaire
 En conclusion, les réglages par défaut ne sont pas figés ; ils doivent s'adapter à l'évolution du réseau. Passer à des presets plus rapides comme LONG_FAST ou MEDIUM_FAST non seulement limite le duty cycle grâce à des trames plus courtes, mais améliore aussi l'efficacité globale, favorisant une croissance saine du mesh Meshtastic.
 
 Pour plus d'informations, consultez la [documentation officielle de Meshtastic](https://meshtastic.org/docs/configuration/radio/lora/).
+
+## Les liens autour des réglages radio meshtastic
+
+- Meshtastic Île-de-France [Quelle Modulation et Fréquence en milieu urbain](https://meshtastic.lorapaca.org/)
+- Gaulix : [Nous n’utilisons pas les réglages par défaut](https://gaulix.fr/nous-nutilisons-pas-les-reglages-par-defaut/)
+- Suisse alémanique [Le réseau Meshtastic en Suisse passe au modem préréglé: moyen_rapide](https://www.radioamateur.ch/wp-content/uploads/2025/08/Fazit_medium_fast_Test.pdf)
+- Radiomateur.ch [Expérimentation du preset « Medium_Fast »](https://www.radioamateur.ch/2025/08/des-nouvelles-de-meshtastic-en-suisse-romande/)
