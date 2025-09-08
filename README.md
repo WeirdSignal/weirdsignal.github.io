@@ -4,16 +4,27 @@
 
 ### WIP (3 tasks max)
 
+
+### BackLog
+
 - Article sur les cas d'usage concret de meshtastic 
 - Ecrire un article sur une présentation de Gaulix
 - Pourquoi les traits sont verts / Comment appariatre sur une carte 
 - Swot Gaulix
+  - Trop de canaux, a diminuer, virer admin, ajouter des canaux locaux 
+- Pixel Server amélioration 
+  - Améliorer les affichagesur la carte avec des icones a parit du usermask, ovir les 2 dernières heures de deplacement d'un node
+-   Icone a partir du user mask pour les noeuds / fixe mobile etc (ou a partir du nom long)
+-   Afficher les 2 dernières heures des positions d'un tracker par exemple
+ 
+- Animer votre réseau meshtastic :
+  -   Ce qu iexiste le test emcomm le premier mercredi du mois
+  -   
 
-### BackLog
-
+- Technique : gérer les tags jekkyyl : mestastic / gaulix / procedure / oducmentaiton / technique 
 - Cas concret la coupure SFR plus de reseau mobile
 - Cas concret mes enfants se servent d'un clavier
-- cas concret 
+- 
 - Gaulix amélioration (liste smartphone)
 - https://www.google.com/search?client=firefox-b-d&q=armachat+tracksenger
 - Gaulix apparaitre sur la carte :
@@ -22,10 +33,9 @@
 - via des traceroutes
 - en relayant la trame de l'autre sur mqtt avec un hop à 0
 - avec le "relay node" présent dans les trames
-
+- Spécifier les nodes fixes et 
+- 
 - Pixel
--   Icone a partir du user mask pour les noeuds / fixe mobile etc (ou a partir du nom long)
--   Afficher les 2 dernières heures des positions d'un tracker par exemple
 -   
 Les 2 nœuds doivent avoir une position gps et s'entendre une fois par jour au moins.
 
