@@ -3,11 +3,12 @@
 ## Article
 
 ### WIP (3 tasks max)
+  - Faire un article avec image pour montrer la configuration d'un noeud Gaulix depuis l'application Android (Un client par example) on fera un mobile plus tard avec tableau récapitulatif)
+  - Comment apparaitre rapidement sur une carte en tracker
 
 
 ### BackLog
 
-- Ecrire un article sur une présentation de Gaulix
 - Pourquoi les traits sont verts / Comment appariatre sur une carte 
 - Swot Gaulix
   - Trop de canaux, a diminuer, virer admin, ajouter des canaux locaux
