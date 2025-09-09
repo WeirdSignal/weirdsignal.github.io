@@ -12,7 +12,8 @@
 - Pourquoi les traits sont verts / Comment appariatre sur une carte 
 - Swot Gaulix
   - Trop de canaux, a diminuer, virer admin, ajouter des canaux locaux
-  - Communauté Francaise, diffile de passer dans les payx limitrophes 
+  - Communauté Francaise, diffile de passer dans les payx limitrophes
+  - Ajouter un canal ping comme la PACA  
 - Pixel Server amélioration 
   - Améliorer les affichagesur la carte avec des icones a parit du usermask, ovir les 2 dernières heures de deplacement d'un node
 -   Icone a partir du user mask pour les noeuds / fixe mobile etc (ou a partir du nom long)
