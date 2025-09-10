@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Importance des Réglages par Défaut dans un Réseau Meshtastic
+title: Quel jeu de paramètres utiliser ?
 date: 2025-09-08
 tags: [meshtastic, réseau mesh, LoRa]
 ---
