@@ -44,6 +44,12 @@
   Sur le site Gaulix c'est pareil sauf que c'est restreint au mqtt Gaulix donc tu as moins de chance d'avoir de traits verts si tu n'es pas sur leur mqtt.
   En Isère (et globalement en France) c'est la carte pixel qu'il faut regarder car elle regroupe la plupart des mqtt français
 
+Sur quel canal communiquer :
+- LongMod : pour discuter localement et pour vos tests
+- Fr_Blabla : pour discuter avec Gaulix du côté du 69, 26, 42, 43, 07. Vos messages arriveront sur leur MQTT et passeront donc dans toute la France via internet. Les réponses de ceux qui essaieront de vous répondre via internet n'arriveront pas jusqu'à nous car on est en 100% radio
+- France : la communauté francophone sur Facebook l'utilise, c'est au cas où
+- Fr_EMCOM : utiliser pour les situations d'urgence, norme gaulix 
+- Fr_Balise : pas utilisé, toutes les informations qui ne sont pas des messages transitent de manière invisible sur ce canal
 ## Jekyll tips
 
 ### WIP
