@@ -5,7 +5,8 @@
 ### WIP (3 tasks max)
   - Faire un article avec image pour montrer la configuration d'un noeud Gaulix depuis l'application Android (Un client par example) on fera un mobile plus tard avec tableau récapitulatif)
   - Comment apparaitre rapidement sur une carte en tracker
-
+  - Rendre attractifs les articles -> Des images, des plantuml et des animations
+  - Rager les articles par tags ou categories
 
 ### BackLog
 
@@ -50,11 +51,15 @@ Sur quel canal communiquer :
 - France : la communauté francophone sur Facebook l'utilise, c'est au cas où
 - Fr_EMCOM : utiliser pour les situations d'urgence, norme gaulix 
 - Fr_Balise : pas utilisé, toutes les informations qui ne sont pas des messages transitent de manière invisible sur ce canal
+
 ## Jekyll tips
 
 ### WIP
 
 - Un joli theme
+- Une page pour selctionner des tags ou des categories
+- Analytics
+- SEO
 
 ### TODO
 
