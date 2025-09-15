@@ -1,5 +1,5 @@
 ---
-title: Gaulix : Un Réseau Meshtastic Français
+title: Gaulix - Un Réseau Meshtastic Français
 date: 2025-09-09
 layout: default
 tags: [meshtastic, radio, projets]
