@@ -57,6 +57,8 @@
   - Cas concret la coupure SFR plus de reseau mobile => Ajouter dans le susages de meshtastics 
   - Cas concret mes enfants se servent d'un clavier
 
+batterie sodium : https://m.facebook.com/groups/1478480786437095/
+
   - Articles Hardware :
     - https://www.google.com/search?client=firefox-b-d&q=armachat+tracksenger
 
