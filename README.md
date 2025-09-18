@@ -57,12 +57,18 @@
   - Cas concret la coupure SFR plus de reseau mobile => Ajouter dans le susages de meshtastics 
   - Cas concret mes enfants se servent d'un clavier
 
-batterie sodium : https://m.facebook.com/groups/1478480786437095/
 
   - Articles Hardware :
     - https://www.google.com/search?client=firefox-b-d&q=armachat+tracksenger
+    - batterie sodium : https://m.facebook.com/groups/1478480786437095/
+    - Spec 5
 
 - Articles liens vers d'autres ressoruces : trier par categories
   - https://github.com/ShakataGaNai/awesome-meshtastic/
   - https://meshtastic.liamcottle.net/?lat=45.22461173085722&lng=365.57006835937506&zoom=10
-  - 
+
+- Les applications en dessus meshtastic :
+-   - lesjuex https://specfive.com/pages/checktastic : dame echec et morpion
+    - Les transfert de fichiers
+    - Meshsense
+  
