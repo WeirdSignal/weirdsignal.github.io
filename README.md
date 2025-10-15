@@ -1,5 +1,8 @@
 # Blog
 
+## Artifact
+-[https://weirdsignal.github.io/](https://weirdsignal.github.io/)
+
 ## Article
 
 ### WIP (3 tasks max)
